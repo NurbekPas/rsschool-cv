@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://NurbekPas.io/rsschool-cv/cv
+# https://nurbekpas.github.io/rsschool-cv/
