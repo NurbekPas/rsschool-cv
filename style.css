@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 1rem auto 2rem;
+    max-width: 800px;
+    width: 80vw;
+    font-family: 'Lato', sans-serif;
+  
+    border-radius: 0.7em;
+    padding: 2em 2em;
+    background-color: #f8f8f8;
+  
+    -webkit-box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.25);
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.25);
+  }
+  .photo {
+      position: absolute;
+      right: 500px;
+      top: 50px;
+    width: 180px;
+    height: 100px;
+    background-image: url(/img/CA441cvySMk.jpg);
+    background-size: 180px;
+    
+    
+    border-radius: 0.5em;
+  }
+  
